@@ -1,9 +1,9 @@
 /bin
 /obj
-/Pages
 /Properties
 /wwwroot
 /appsettings.Development.json
 /appsettings.json
 /Program.cs
+/README.MD
 /TEN1.csproj
