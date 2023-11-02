@@ -1,5 +1,6 @@
 /bin
 /obj
+/Pages/Shared
 /Properties
 /wwwroot
 /appsettings.Development.json

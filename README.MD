@@ -1,1 +1,1 @@
-Landing Page for the Lunarpunk Website, created using the .NET Framework/C#/HTML/CSS/JS.
+Landing Page for the Lunar.punk Website, created using the .NET Framework/Razor Framework/C#/HTML/CSS/JS.

@@ -1,5 +1,4 @@
-/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
+
 
 a.navbar-brand[b-ea1ek45khy] {
   white-space: normal;
@@ -39,29 +38,11 @@ button.accept-policy[b-ea1ek45khy] {
   line-height: inherit;
 }
 
-/* Light mode */
-:root[b-ea1ek45khy] {
-  --background-color: #fff;
-  --text-color: #333;
-}
-
-/* Dark mode */
-.dark-mode[b-ea1ek45khy] {
-  --background-color: #333;
-  --text-color: #fff;
-}
-
-body[b-ea1ek45khy] {
-  background-color: var(--background-color);
-  color: var(--text-color);
-}
-
-
 .footer[b-ea1ek45khy] {
   position: absolute;
   bottom: 0;
   width: 100%;
-  white-space: nowrap;
+  overflow: hidden;
   line-height: 40px;
 }
 
