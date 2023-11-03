@@ -41,6 +41,7 @@ button.accept-policy[b-ea1ek45khy] {
 
 .footer[b-ea1ek45khy] {
   position: absolute;
+  font-size: 12px;
   bottom: 0;
   width: 100%;
   overflow: hidden;
@@ -65,4 +66,13 @@ button.accept-policy[b-ea1ek45khy] {
 .signup input[b-ea1ek45khy],
 .signup button[b-ea1ek45khy] {
   margin: 5px;
+}
+
+header button[b-ea1ek45khy] {
+  background: transparent;
+  border: none;
+  align-self: center;
+  color: #aa4f9b; 
+  display: block; 
+  margin-bottom: 10px;
 }

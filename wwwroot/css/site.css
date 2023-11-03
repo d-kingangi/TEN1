@@ -36,6 +36,7 @@ header button {
 
 button.nav-button {
   background: transparent;
+  align-self: center;
   border: none;
   color: #aa4f9b; 
   display: block; 
@@ -47,7 +48,7 @@ button.nav-button {
 }
 
 body {
-  margin-bottom: 60px;
+  margin-bottom: 220px;
   background-color: #000000;
   color: #fff;
 }

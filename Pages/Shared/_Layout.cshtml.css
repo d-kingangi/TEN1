@@ -40,6 +40,7 @@ button.accept-policy {
 
 .footer {
   position: absolute;
+  font-size: 12px;
   bottom: 0;
   width: 100%;
   overflow: hidden;
@@ -64,4 +65,13 @@ button.accept-policy {
 .signup input,
 .signup button {
   margin: 5px;
+}
+
+header button {
+  background: transparent;
+  border: none;
+  align-self: center;
+  color: #aa4f9b; 
+  display: block; 
+  margin-bottom: 10px;
 }
