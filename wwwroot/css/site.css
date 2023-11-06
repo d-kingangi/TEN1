@@ -32,6 +32,7 @@ header button {
   color: #aa4f9b; 
   display: block; 
   margin-bottom: 10px;
+  font-size: 20px;
 }
 
 button.nav-button {

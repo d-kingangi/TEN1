@@ -1,5 +1,9 @@
-/bin
-/obj
+/bin/Debug/net7.0/appsettings.Development.json
+/bin/Debug/net7.0/appsettings.json
+/bin/Debug/net7.0/TEN1.deps.json
+/bin/Debug/net7.0/TEN1.exe
+/bin/Debug/net7.0/TEN1.runtimeconfig.json
+/bin/Debug/net7.0/TEN1/staticwebassets.runtime.json
 /Pages/Shared/_ValidationScriptsPartial.cshtml
 /Pages/_ViewImports.cshtml
 /Pages/_ViewStart.cshtml
@@ -15,7 +19,6 @@
 /Pages/Privacy.cshtml
 /Pages/Privacy.cshtml.cs
 /Properties
-/wwwroot/js
 /wwwroot/lib
 /appsettings.Development.json
 /appsettings.json

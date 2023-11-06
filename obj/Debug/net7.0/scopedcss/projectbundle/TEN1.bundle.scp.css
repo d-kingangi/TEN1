@@ -42,10 +42,18 @@ button.accept-policy[b-ea1ek45khy] {
 .footer[b-ea1ek45khy] {
   position: absolute;
   font-size: 12px;
+  color: #e5e5e5;
   bottom: 0;
   width: 100%;
   overflow: hidden;
   line-height: 40px;
+  text-align: center;
+}
+
+.footer a[b-ea1ek45khy] {
+  margin: 0 15px; 
+  text-decoration: none; 
+  color: #fff; 
 }
 
 .signup[b-ea1ek45khy] {
