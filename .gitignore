@@ -1,9 +1,4 @@
-/bin/Debug/net7.0/appsettings.Development.json
-/bin/Debug/net7.0/appsettings.json
-/bin/Debug/net7.0/TEN1.deps.json
-/bin/Debug/net7.0/TEN1.exe
-/bin/Debug/net7.0/TEN1.runtimeconfig.json
-/bin/Debug/net7.0/TEN1/staticwebassets.runtime.json
+/bin/
 /Pages/Shared/_ValidationScriptsPartial.cshtml
 /Pages/_ViewImports.cshtml
 /Pages/_ViewStart.cshtml

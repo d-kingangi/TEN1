@@ -3,6 +3,7 @@
 a.navbar-brand[b-ea1ek45khy] {
   white-space: normal;
   text-align: center;
+  color: #aa4f9b;
   word-break: break-all;
 }
 
@@ -18,7 +19,7 @@ a[b-ea1ek45khy] {
 
 .nav-pills .nav-link.active[b-ea1ek45khy], .nav-pills .show > .nav-link[b-ea1ek45khy] {
   color: #fff;
-  background-color: #1b6ec2;
+  background-color: #aa4f9b;
   border-color: #1861ac;
 }
 
@@ -82,4 +83,15 @@ header button[b-ea1ek45khy] {
   color: #aa4f9b; 
   display: block; 
   margin-bottom: 10px;
+}
+
+#mainHeader[b-ea1ek45khy] {
+  display: none;
+}
+
+#menuButton[b-ea1ek45khy] {
+  background: none;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
 }

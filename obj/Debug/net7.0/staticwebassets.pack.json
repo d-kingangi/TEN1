@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\ANTI\\AMPATH\\TEN\\TEN1\\wwwroot\\js\\wallet.js",
+      "PackagePath": "staticwebassets\\js\\wallet.js"
+    },
+    {
       "Id": "C:\\Users\\ANTI\\AMPATH\\TEN\\TEN1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

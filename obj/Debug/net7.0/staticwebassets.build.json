@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+6MkNsHkYAL9HgMic1D81Jug5RJg9KOSqLI2nBHxY/k=",
+  "Hash": "QDINjUegbCo/7R2bllN6kreAx/3pCt3sXnXMXHY/k0M=",
   "Source": "TEN1",
   "BasePath": "_content/TEN1",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\ANTI\\AMPATH\\TEN\\TEN1\\wwwroot\\js\\wallet.js",
+      "SourceId": "TEN1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ANTI\\AMPATH\\TEN\\TEN1\\wwwroot\\",
+      "BasePath": "_content/TEN1",
+      "RelativePath": "js/wallet.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\wallet.js"
     },
     {
       "Identity": "C:\\Users\\ANTI\\AMPATH\\TEN\\TEN1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

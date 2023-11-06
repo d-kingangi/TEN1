@@ -3,6 +3,7 @@
 a.navbar-brand {
   white-space: normal;
   text-align: center;
+  color: #aa4f9b;
   word-break: break-all;
 }
 
@@ -18,7 +19,7 @@ a {
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #1b6ec2;
+  background-color: #aa4f9b;
   border-color: #1861ac;
 }
 
@@ -82,4 +83,15 @@ header button {
   color: #aa4f9b; 
   display: block; 
   margin-bottom: 10px;
+}
+
+#mainHeader {
+  display: none;
+}
+
+#menuButton {
+  background: none;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
 }
