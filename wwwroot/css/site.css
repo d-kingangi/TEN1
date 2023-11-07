@@ -54,3 +54,31 @@ body {
   color: #fff;
 }
 
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.blog-post {
+  border: 7px solid #aa4f9b;
+  padding: 20px;
+  text-align: center;
+  background-color: #000000;
+  transition: transform 0.2s;
+}
+
+.blog-post:hover {
+  transform: scale(1.05);
+}
+
+.blog-post a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.blog-post img {
+  max-width: 100%;
+  height: auto;
+}
