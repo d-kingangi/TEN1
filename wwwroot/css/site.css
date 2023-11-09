@@ -245,3 +245,8 @@ hr {
   height: 70%;
   margin: 0 20px;
 }
+
+.lead{
+  font-size: 20px;
+  text-align: right;
+}
