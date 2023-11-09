@@ -26,7 +26,8 @@
 /obj/TEN1.csproj.nuget.dgspec.json
 /obj/TEN1.csproj.nuget.g.props
 /obj/TEN1.csproj.nuget.g.targets
-/Pages/Shared/_Layout.cshtml.cs
+/Pages/Shared/Shared/_Layout.cshtml
+/Pages/Shared/_Layout.cshtml.css
 /Pages/Shared/_ValidationScriptsPartial.cshtml
 /Pages/_ViewImports.cshtml
 /Pages/_ViewStart.cshtml

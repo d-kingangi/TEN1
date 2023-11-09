@@ -144,9 +144,11 @@ textarea {
 button {
   background-color: #000000;
   color: #fff;
+  width: 100%;
   border: 3px;
   border-color: #aa4f9b;
   border-radius: 3px;
+  border: 2px solid #aa4f9b;
   padding: 10px 20px;
   cursor: pointer;
 }
@@ -224,6 +226,7 @@ hr {
 .grid-item button {
   background-color: #000000;
   color: #fff;
+  font: bold;
   width: 580px;
   padding: 10px 20px;
   border: 2px solid #aa4f9b;
@@ -247,6 +250,6 @@ hr {
 }
 
 .lead{
-  font-size: 20px;
-  text-align: right;
+  font-size: 8px;
+  text-align: left;
 }
